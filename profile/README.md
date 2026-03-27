@@ -35,4 +35,12 @@ Robotics team from the **tecnification** team inside the **Digitilization, AI & 
     <tr>
         <td><a href="#Example">Example</a><br>Example of how to make a column in a table</td>
     </tr>
+        <tr>
+        <td colspan="1" rowspan="3" style="text-align: center; vertical-align: middle; font-size: 1.2em; font-weight: bold;">
+            IsaacLab
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/TR-ROBOTICS/ValveOperationProject">Valve Operation Project</a><br>Autonomous valve operation project</td>
+    </tr>
 </table>
