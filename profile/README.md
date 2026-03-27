@@ -1,3 +1,7 @@
-Lorem ipsum dolor sit amet consectetur adipiscing elit tempor, eleifend iaculis et porttitor nullam lacus odio, in pharetra natoque libero magnis viverra porta. Consequat turpis viverra cubilia sodales mattis nec platea vel suspendisse laoreet, aenean interdum ullamcorper dignissim nulla habitasse id scelerisque magna etiam, penatibus morbi torquent ornare faucibus augue vivamus odio tincidunt. Iaculis massa nisi venenatis dui nullam montes proin, egestas suspendisse magnis laoreet litora morbi duis fusce, lacinia mauris class hac porttitor per.
+# TR-ROBOTICS
 
-Congue blandit vel odio tempus montes molestie augue eget platea at potenti netus, arcu tortor habitasse tristique ullamcorper tempor curabitur libero taciti accumsan vulputate. Dapibus est urna rutrum hac blandit inceptos, netus curabitur ac senectus in class at, porta vulputate enim lectus vestibulum. Nascetur pretium quam pulvinar sagittis diam lectus dignissim placerat cum nunc, dapibus accumsan pharetra mollis euismod mattis enim vivamus aptent tristique, metus malesuada parturient felis non justo nostra dui praesent.
+Robotics team from the **tecnification** team inside the **Digitilization, AI & Robotics** Department.
+
+## Available technologies
+
+1. Inspection robots. Unitree: G2W, Go2 and G1. Watch-bot from Star Robotics.
