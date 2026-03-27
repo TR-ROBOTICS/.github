@@ -10,11 +10,11 @@ Robotics team from the **tecnification** team inside the **Digitilization, AI & 
 
 <!-- <tr><td colspan="2" rowspan="2"> -->
 
-<table class="table table-striped table-bordered table-vcenter"/>
+<table class="table table-striped table-bordered table-vcenter">
     <tbody>
     <tr><th> Title </th> <th>Description</th> </tr>
     <tr>
-        <td colspan="1" rowspan="3" style="text-align: center; vertical-align: middle; font-size: 1.2em; font-weight: bold;">
+        <td colspan="1" rowspan="3">
             G1 
         </td>
     </tr>
@@ -25,7 +25,7 @@ Robotics team from the **tecnification** team inside the **Digitilization, AI & 
         <td><a href="#Example">Example</a><br>Example of how to make a column in a table</td>
     </tr>
     <tr>
-        <td colspan="1" rowspan="3" style="text-align: center; vertical-align: middle; font-size: 1.2em; font-weight: bold;">
+        <td colspan="1" rowspan="3">
             G2W
         </td>
     </tr>
@@ -36,7 +36,7 @@ Robotics team from the **tecnification** team inside the **Digitilization, AI & 
         <td><a href="#Example">Example</a><br>Example of how to make a column in a table</td>
     </tr>
         <tr>
-        <td colspan="1" rowspan="3" style="text-align: center; vertical-align: middle; font-size: 1.2em; font-weight: bold;">
+        <td colspan="1" rowspan="3">
             IsaacLab
         </td>
     </tr>
