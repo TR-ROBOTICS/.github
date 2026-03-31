@@ -35,12 +35,20 @@ Robotics team from the **tecnification** team inside the **Digitilization, AI & 
     <tr>
         <td><a href="#Example">Example</a><br>Example of how to make a column in a table</td>
     </tr>
-        <tr>
-        <td colspan="1" rowspan="3">
+    <tr>
+        <td colspan="1" rowspan="2">
             IsaacLab
         </td>
     </tr>
     <tr>
         <td><a href="https://github.com/TR-ROBOTICS/ValveOperationProject">Valve Operation Project</a><br>Autonomous valve operation project</td>
+    </tr>
+    <tr>
+        <td colspan="1" rowspan="2">
+            Utility
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/TR-ROBOTICS/yolo-fine-tuner.git">YOLO Fine Tuner</a><br>Repository for fine-tuning YOLO models in a custom dataset</td>
     </tr>
 </table>
